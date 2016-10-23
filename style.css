@@ -1,0 +1,66 @@
+.form-wrapper button {
+    overflow: visible;
+    position: relative;
+    border: 0;
+    padding: 0;
+    cursor: pointer;
+    height: 30px;
+    width: 83px;
+    margin-left: -5px;
+    color: #fff;
+    text-transform: uppercase;
+    background: #0095c4;
+    -moz-border-radius: 0 3px 3px 0;
+    -webkit-border-radius: 0 3px 3px 0;
+    border-radius: 0 3px 3px 0;
+    }
+
+    input {
+      -moz-border-radius: 3px 0px 0px 3px;
+      -webkit-border-radius: 3px 0px 0px 3px;
+      border-radius: 3px 0px 0px 3px;
+      width:335px;
+      height:30px;
+      border-width:1px;
+
+
+    }
+.fil li {
+
+  float:left;
+}
+ ul.fil {
+  margin-left: 0px;
+    margin-top: 18px;
+    margin-bottom: 18px;
+    list-style-type: none;}
+
+ul p{
+  margin-left: 10px;
+margin-right: 10px;
+}
+button.filter{
+  background-color: white;
+border: solid 2px #ccc;
+border-radius: 3px 3px 3px 3px;
+margin-right: 7px;
+}
+form.subj{
+  float: left;
+margin-left: -424px;
+margin-top: 48px;
+}
+button.subj{
+  color: #fff;
+background: #0095c4;
+-moz-border-radius: 0 3px 3px 0;
+-webkit-border-radius: 0 3px 3px 0;
+border-radius: 0 3px 3px 0;
+border: 0px;
+}
+div.access {
+  float:left;
+}
+div.access p{
+  text-align: justify;
+}
