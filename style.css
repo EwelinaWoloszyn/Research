@@ -73,6 +73,7 @@ nav.blog-pagination{
 
 article {
   display: none;
+  padding-top:18px;  
 }
 article.active {
   display: block;
