@@ -113,9 +113,12 @@ text-align: justify;
 .tag-container .selected {
   font-weight: bold;
 }
+.tag-container{
+  clear:left;
+}
 div.tag-container.show-all{
-  float:left;
-  margin-left: -100px;
+  /*float:left;*/
+/*  margin-left: -100px;*/
 }
 nav#demo.blog-pagination{
   margin: 0px 62%;
