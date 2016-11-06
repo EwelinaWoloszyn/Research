@@ -127,8 +127,8 @@ nav#demo.blog-pagination{
 width: 100px;
 }
 .tag-container .letter-header {
-  display: none;  /* <!-- modified */
-  padding: 0 1em;
+  display: none !important;  /* <!-- modified */
+  padding: 0 1em !important;
 }
 .tag-container button {
-    margin: 0 5px; }
+    margin: 0 5px !important; }
