@@ -89,10 +89,7 @@ text-align: justify;
   list-style: none;
   display: inline-block;
 }
-.tag-container .letter-header {
-  display: inline-block;
-  padding: 0 1em;
-}
+
 .tag-container button {
   background-color: #AAA;
   color: #fff;
