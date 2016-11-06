@@ -126,3 +126,9 @@ nav#demo.blog-pagination{
   margin: 0px 62%;
 width: 100px;
 }
+.tag-container .letter-header {
+  display: none;  /* <!-- modified */
+  padding: 0 1em;
+}
+.tag-container button {
+    margin: 0 5px; }
